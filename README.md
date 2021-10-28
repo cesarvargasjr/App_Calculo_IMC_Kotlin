@@ -1,0 +1,1 @@
+Na displina de Tecnologias Móveis, foi solicitado pelo professor desenvolver uma aplicação simples para calcular o IMC mostrando uma mensagem do status de saúde que a pessoa se encontra em relação ao seu IMC.
