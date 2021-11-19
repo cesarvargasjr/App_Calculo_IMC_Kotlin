@@ -1,4 +1,4 @@
-## Calculadora IMC
+## Calculadora IMC - Kotlin
 
 Projeto simples para calcular o IMC de uma pessoa mostrando uma mensagem do status de saúde que se encontra em relação ao seu IMC.
 
